@@ -6,15 +6,6 @@ I'm a passionate developer who loves building intuitive, responsive, and meaning
 
 ---
 
-## 💼 About Me
-
-- 🔭 Currently working on: **Mobile e-commerce apps using React Native**
-- 🌱 Learning: **Next.js · TypeScript · Performance Optimization**
-- 🛠 Comfortable with: **Full-Stack Development · UI/UX Integration · API Handling**
-- 🎯 Fun fact: I appreciate clean UI just as much as clean code!
-
----
-
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
