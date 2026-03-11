@@ -2,7 +2,7 @@
 
 # Hi, I'm Ceasar Ian
 
-I'm a passionate developer who loves building intuitive, responsive, and meaningful digital experiences. Whether it's mobile apps or web platforms, I thrive in modern dev stacks and enjoy solving real-world problems through code
+I'm a passionate developer who loves building intuitive, responsive, and meaningful digital experiences. Whether it's mobile apps or web platforms, I thrive in modern dev stacks and enjoy solving real-world problems through code.
 
 ---
 
