@@ -55,4 +55,7 @@ I'm a passionate developer who loves building intuitive, responsive, and meaning
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ian29s&theme=dark&hide_border=true)
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ian29s&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
