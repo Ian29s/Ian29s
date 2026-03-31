@@ -55,4 +55,4 @@ I'm a passionate developer who loves building intuitive, responsive, and meaning
 
 ## 📊 GitHub Stats
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Ian29s&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ian29s&theme=dark&hide_border=true)
